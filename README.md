@@ -26,7 +26,7 @@ This project implements and verifies a Half-Precision (16-bit) Floating Point Un
 - Simple file-based interface for simulation across any HDL simulator  
 - Can be extended to support pipelined FPU cores or 32-bit/64-bit operations  
 
-**Note:** For the complete report, simulation results, and detailed module implementation, please reach out via email.
+**Note:** For the complete report, and detailed module implementation, please reach out via email.
 
 ## Author
 
