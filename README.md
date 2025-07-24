@@ -11,11 +11,10 @@ This project implements and verifies a Half-Precision (16-bit) Floating Point Un
 
 ## Project Files
 
-- `tb_fp16.v` – Verilog testbench reading from and writing to text files  
-- `fp16.py` – Python script for automated test generation and result checking  
-- `input.txt` – Input operands and operation codes for simulation  
-- `output.txt` – Verilog-generated output values  
-- `results.txt` – Comparison log showing match/mismatch status  
+- [FPU_testbench](FPU_testbench)
+- [Results](Results)
+- [Results_compare](fpu_compare.py)
+- [Testcase Generator](testcase_generator.py)
 
 ## Key Highlights
 
