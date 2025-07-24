@@ -11,25 +11,30 @@ def gen_inputs():
             return f
 
 def gen_test_cases():
-    opc = random.randint(0, 4)
+    opc = random.randint(0, 4)  
     if opc == 0:
         a = random.randint(-128, 127)
         b = 0.0
-        out = np.float16(a)  # constant conversion to float16
+        out = np.float16(a)  
         return a, fl_to_fp(b), opc, fl_to_fp(out), out
     else:
         a = gen_inputs()
         b = gen_inputs()
         a_fp = np.float16(a)
         b_fp = np.float16(b)
+
+        a_f32 = np.float32(a_fp)
+        b_f32 = np.float32(b_fp)
+
         if opc == 1:
-            out = np.float16(a_fp + b_fp)
+            out = np.float16(a_f32 + b_f32)
         elif opc == 2:
-            out = np.float16(a_fp - b_fp)
+            out = np.float16(a_f32 - b_f32)
         elif opc == 3:
-            out = np.float16(a_fp * b_fp)
+            out = np.float16(a_f32 * b_f32)
         else:
-            out = np.float16(a_fp / b_fp)
+            out = np.float16(a_f32 / b_f32)
+
         return fl_to_fp(a_fp), fl_to_fp(b_fp), opc, fl_to_fp(out), out
 
 N = 10000
