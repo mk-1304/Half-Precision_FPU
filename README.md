@@ -15,7 +15,7 @@ This project implements and verifies a Half-Precision (16-bit) Floating Point Un
 - [Testcase Generator](testcase_generator.py)
 - [Results Comparison](fpu_compare.py)
 - [Results](Results)
-- [Verilog Results](Verilog_results.png)
+- [Verilog Result](Verilog_results.png)
 
 ## Key Highlights
 
