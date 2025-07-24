@@ -11,10 +11,10 @@ This project implements and verifies a Half-Precision (16-bit) Floating Point Un
 
 ## Project Files
 
-- [FPU_testbench](FPU_testbench)
-- [Results](Results)
-- [Results_compare](fpu_compare.py)
+- [FPU Testbench](FPU_testbench)
 - [Testcase Generator](testcase_generator.py)
+- [Results Comparison](fpu_compare.py)
+- [Results](Results)
 
 ## Key Highlights
 
