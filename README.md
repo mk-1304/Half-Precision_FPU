@@ -24,7 +24,7 @@ This project implements and verifies a Half-Precision (16-bit) Floating Point Un
 - Supports large-scale automated testing using NumPy  
 - Detects mismatches due to rounding, subnormals, overflows, and invalid operations  
 - Simple file-based interface for simulation across any HDL simulator  
-- Achieved 99.7% accuracy on comparision with python generated results 
+- Achieved 99.7% accuracy on comparison with python generated results 
 
 **Note:** For the complete report, and detailed module implementation, please reach out via email.
 
