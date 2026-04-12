@@ -6,7 +6,7 @@ This project implements and verifies a Half-Precision (16-bit) Floating Point Un
 
 - Verilog HDL – Hardware description of IEEE 754 FPU logic  
 - Python + NumPy – Test vector generation and reference calculation  
-- Icarus Verilog / ModelSim – Simulation environment  
+- ModelSim – Simulation environment  
 - IEEE 754 – Half-precision binary16 floating-point standard  
 
 ## Project Files
