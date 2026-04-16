@@ -163,11 +163,9 @@ python fpu_compare.py
 The script prints a pass/fail report and overall accuracy to both console and `report.log`.
 
 ---
-
 ## Author
 
-Madhusudan Kannan  
-LinkedIn: https://www.linkedin.com/in/madhusudan-kannan/  
-Email: maddyoff.04@gmail.com
+**Madhusudan Kannan**  
+[LinkedIn](https://www.linkedin.com/in/madhusudan-kannan/) • [Email](mailto:maddyoff.04@gmail.com)
 
 For the complete RTL implementation (`fpu_16.v`) and the detailed design report, please reach out via LinkedIn or email.
