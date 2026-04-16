@@ -166,9 +166,8 @@ The script prints a pass/fail report and overall accuracy to both console and `r
 
 ## Author
 
-**Madhusudan Kannan**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/madhusudan-kannan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:maddyoff.04@gmail.com)
+Madhusudan Kannan  
+LinkedIn: https://www.linkedin.com/in/madhusudan-kannan/  
+Email: maddyoff.04@gmail.com
 
 For the complete RTL implementation (`fpu_16.v`) and the detailed design report, please reach out via LinkedIn or email.
