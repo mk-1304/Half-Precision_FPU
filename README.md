@@ -5,7 +5,7 @@
 ![Standard](https://img.shields.io/badge/Standard-IEEE%20754-orange)
 ![Simulator](https://img.shields.io/badge/Simulator-ModelSim-green)
 ![Accuracy](https://img.shields.io/badge/Accuracy-99.7%25-brightgreen)
-![Status](https://img.shields.io/badge/Status-Complete-success)
+
 
 A fully verified **16-bit Floating Point Unit** designed in Verilog HDL, compliant with the **IEEE 754 binary16 (half-precision)** standard. The project includes a complete automated verification pipeline — from test vector generation to cross-simulation result comparison — achieving **99.7% accuracy** across 10,000 randomized test cases.
 
