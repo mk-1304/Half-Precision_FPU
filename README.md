@@ -1,9 +1,6 @@
 # IEEE 754 Half-Precision Floating Point Unit (FPU)
 
-![Language](https://img.shields.io/badge/HDL-Verilog-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![Standard](https://img.shields.io/badge/Standard-IEEE%20754-orange)
-![Simulator](https://img.shields.io/badge/Simulator-ModelSim-green)
+
 
 
 
